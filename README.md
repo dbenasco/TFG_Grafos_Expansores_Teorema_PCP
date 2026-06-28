@@ -83,4 +83,4 @@ python3 generate_execution_trace.py    # pcpify_trace_diagram.png
 
 - Arora, S., y Barak, B. (2009). *Computational Complexity: A Modern Approach*. Cambridge University Press.
 - Dinur, I. (2007). The PCP theorem by gap amplification. *Journal of the ACM*, 54(3).
-- 
+- Sipser, M., y Spielman, D. A. (1996). Expander codes. *IEEE Transactions on Information Theory*, 42(6), 1710–1722.
