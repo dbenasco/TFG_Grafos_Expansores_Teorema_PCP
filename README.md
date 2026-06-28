@@ -1,8 +1,6 @@
 # Grafos de expansión, códigos comprobables localmente y el Teorema PCP
 
-Código fuente del Trabajo de Fin de Grado en Matemáticas.  
-Implementación combinatoria de la demostración de Dinur del Teorema PCP.
-
+Código fuente del Trabajo de Fin de Grado en Matemáticas, Grafos de expansión, códigos comprobables localmente y teorema PCP
 ## Estructura
 
 ```
@@ -83,5 +81,6 @@ python3 generate_execution_trace.py    # pcpify_trace_diagram.png
 
 ## Principales referencias
 
-- Dinur, I. (2007). The PCP theorem by gap amplification. *Journal of the ACM*, 54(3).
 - Arora, S., y Barak, B. (2009). *Computational Complexity: A Modern Approach*. Cambridge University Press.
+- Dinur, I. (2007). The PCP theorem by gap amplification. *Journal of the ACM*, 54(3).
+- 
