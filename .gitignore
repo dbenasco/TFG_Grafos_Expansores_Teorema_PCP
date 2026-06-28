@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+graphs/
+graphs_degree/
+graphs_theorems/
+*.png
+*.tex
+*.pdf
+*.log
+*.aux
+*.fls
+*.fdb_latexmk
+*.out
+*.txt
