@@ -14,3 +14,4 @@ graphs_theorems/
 *.fdb_latexmk
 *.out
 *.txt
+!requirements.txt
